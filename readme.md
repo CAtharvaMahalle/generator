@@ -1,0 +1,8 @@
+#welcome to the generator code.
+
+1. FIRST BUILD THE GENERATOR PARSER BY ENTERING THE BELOW COMMAND.
+    npm run build
+
+
+2. THEN TO TEST THE GENERATOR PARSER TRY IT BY ENTERING THE BELOW COMMAND.
+    npm run start    

@@ -1,0 +1,11 @@
+{
+    "DURATION":600000,
+    "API_URL" : "https://webhook-prod-us-west-2.solinkcloud.com/api/v1/webhook",
+    "owners": [{
+        "customerId": "20695450-902b-11ec-b965-4b15b7bdfef4",
+        "ownershipGroup": "Test Customer",
+        "stores": [
+          "123"
+        ]
+      }]
+}
